@@ -1,0 +1,1 @@
+# R-code-for-PLS-SEM-analysis
